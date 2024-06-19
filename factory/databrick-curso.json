@@ -1,0 +1,9 @@
+{
+	"name": "databrick-curso",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "17ac2acb-db0e-4b34-a6f7-6e8c8f2f5e43",
+		"tenantId": "982be6e0-2e11-4937-8716-558d10df69aa"
+	}
+}
